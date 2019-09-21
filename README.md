@@ -14,4 +14,5 @@ dotnet VoiceroidToServer.dll --seed="シード値" --path="VOICEROID2のイン�
 ## 使い方
 起動したら、http://localhost:5000/index.html にアクセスするとSwagger形式でAPIドキュメントが読めます。
 
-
+通知エリアで現在起動中のVOICEROID2の状態がわかります。
+![通知アイコン](docs/notifyicon_image.png)
